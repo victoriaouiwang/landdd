@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Ysabeau&display=swap") ;
+@import url("CSS/components/container.css");
+@import url("CSS/components/button.css");
+@import url("CSS/components/banner.css");
+@import url("CSS/components/card.css");
+
+body {
+   font-family: 'Ysabeau', sans-serif;
+   font-size: 18px;
+   margin: 0px ;
+
+}
+h1, h2, h3 {
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+}
+
+a{
+
+  text-decoration: none;
+}
+
